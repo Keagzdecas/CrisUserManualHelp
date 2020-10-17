@@ -7,11 +7,12 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "homepage": "https://Keagzdecas.github.io/CrisUserManualHelp",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
